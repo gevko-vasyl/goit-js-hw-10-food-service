@@ -56,5 +56,3 @@ function switchToDark() {
     localStorage.setItem('theme', body.className);
 };
 
-
-const a = 0;
